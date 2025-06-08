@@ -1,68 +1,88 @@
-# Bibash Singh 
-### Flutter Developer | CSIT Student (6th Semester)
+<h1 align="center">Hi 👋, I'm Bibash Singh</h1>
+<h3 align="center">A passionate Flutter App Developer 🚀</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](YOUR_GITHUB) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](YOUR_TWITTER)
+<div align="center">
+  <img src="https://github.com/zione-kushwaha/zione-kushwaha/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation">
+</div>
 
-## 👨‍💻 About Me
-- 🎓 6th Semester BSc CSIT student with *1+ years of Flutter development experience*
-- 📱 Passionate about building *educational mobile apps* with clean architecture
-- 🌍 Creating *multi-language learning apps* (supports Arabic, Hindi, Urdu, etc.)
-- � Enjoy collaborative Flutter projects, movie nights, and lunch with friends
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B731&center=true&width=600&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+JSON+%7C+Provider+%7C+App+Development;Let's+build+awesome+apps+with+Flutter+%F0%9F%93%B1" alt="Typing SVG" />
+</p>
 
-## 🛠 Technical Skills
-*Languages & Frameworks:*  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+---
 
-*State Management:*  
-![Provider](https://img.shields.io/badge/Provider-8E24AA?style=flat)
+<div align="center">
+  <img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
-*Database & Storage:*  
-![SharedPreferences](https://img.shields.io/badge/Shared_Preferences-5C6BC0?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+---
 
-*Tools:*  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BibashSingh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 
-## 🚀 Featured Projects
+- 🔭 I’m currently working on *Duolingo-style Language Learning App using Flutter*
+- 🌱 I’m currently learning *Advanced State Management and Backend Integration*
+- 💬 Ask me about *Flutter, Dart, Firebase, State Management, JSON parsing*
+- 👨‍💻 All my projects are available at [GitHub Profile](https://github.com/BibashSingh)
+- 📫 Reach me at **bibashsingh999@gmail.com**
+- ⚡ Fun fact: *I love coding while listening to music 🎧 and creating clean UI designs*
 
-### 📚 Educational Apps Suite
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| *[Learn Computer Basics](link)* | Computer history & fundamentals app | Flutter, Provider, JSON |
-| *[Learn Programming](link)* | PHP/Java tutorials with quizzes | Flutter, Firebase, MCQs |
-| *[Nepal Quiz](link)* | Nepali history & science trivia | SharedPreferences, Dark Mode |
-| *[Duolingo Clone](link)* | Language learning with audio/image Qs | Multi-language, Voice API |
-| *[Digital Marketing Course](link)* | SEO/SMM/AI trends learning platform | Progress Tracking, Certificates |
+---
 
-*Key Features Across Apps:*
-- 📱 Multi-language support (10+ languages)
-- 💾 Local persistence with SharedPreferences
-- ♥️ Favorites/bookmark system
-- 📊 Quiz progress tracking
-- 🏆 Certification tests
-- 🎨 Custom UI/UX designs
+<h3 align="center">📌 Connect with Me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bibash-singh-352ba026a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/savage_thakuri/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/BibashSingh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 
-## 🏗 Current Focus
-- 🔍 Improving state management with *Riverpod/Bloc*
-- 🌐 Adding more language translations
-- 📊 Implementing analytics in existing apps
-- 🧪 Writing unit/widget tests
-- 🚀 Learning advanced Flutter animations
+---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<h3 align="center">🔧 Languages and Tools:</h3>
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40" />
+  </a>
+  <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Provider" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="VS Code" width="40" height="40" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](YOUR_LINKEDIN)
-- 🐦 [Twitter](YOUR_TWITTER)
-- 📧 Email: your.email@example.com
+<div align="center">
+  <h3>📊 My GitHub Stats:</h3>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BibashSingh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BibashSingh&theme=radical" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BibashSingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
 
-> "Building apps that make learning accessible to everyone, one Flutter widget at a time." - Bibash
+---
+
+⭐ *Feel free to connect with me or collaborate on projects – let’s build something great with Flutter! 🚀*
