@@ -57,15 +57,11 @@
   <a href="https://www.json.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40" />
   </a>
-  <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Provider" width="40" height="40" />
-  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="VS Code" width="40" height="40" />
-  </a>
+
 </p>
 
 ---
